@@ -1,6 +1,6 @@
 # Arduino Robotic Arm with Python and Computer Vision
 
-(Videos/video.mp4)
+[Click Here](https://www.linkedin.com/posts/shehab-mohamed-86b072365_robotics-computervision-arduino-activity-7329958986663759873-TH2G?utm_source=share&utm_medium=member_android&rcm=ACoAAFqZmVMBf-O0bL0658bK5R9oh1a9wIYXt3M)
 
 ## Overview
 This project is a robotic arm controlled using **Arduino** and **servo motors**, fully driven by **Python**.  
