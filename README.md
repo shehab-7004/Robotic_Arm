@@ -29,5 +29,5 @@ It integrates **computer vision** for object detection and manipulation, allowin
 3. The arm will track and manipulate objects based on camera input.
 
 ## Video Demo
-[The project demo] (https://www.linkedin.com/posts/shehab-mohamed-86b072365_robotics-computervision-arduino-activity-7329958986663759873-TH2G?utm_source=share&utm_medium=member_android&rcm=ACoAAFqZmVMBf-O0bL0658bK5R9oh1a9wIYXt3M)
+[The project demo](https://www.linkedin.com/posts/shehab-mohamed-86b072365_robotics-computervision-arduino-activity-7329958986663759873-TH2G?utm_source=share&utm_medium=member_android&rcm=ACoAAFqZmVMBf-O0bL0658bK5R9oh1a9wIYXt3M)
 
